@@ -5,7 +5,9 @@
 ### Chapter 1 - HTTP/1.0 의 Syntax
 
 Golang의 net/http 패키지 - [학습내용바로가기](Chapter1/net_http_package.md)
+
 HTTP 0.9 - [학습내용바로가기](Chapter1/1.2_http0.9.md)
+
 HTTP 1.0 - [학습내용바로가기](Chapter1/1.3_http1.0.md)
 
 ### Chapter 2 - HTTP/1.0의 Symantic
